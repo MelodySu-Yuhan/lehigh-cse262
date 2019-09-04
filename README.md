@@ -1,3 +1,4 @@
 # lehigh-cse262
 
-First attempt
+Yuhan Su(Melody)
+Homework 1
